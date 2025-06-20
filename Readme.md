@@ -27,3 +27,9 @@ sudo sh get-docker.sh
 sudo usermod -aG docker ubuntu
 
 newgrp docker
+
+## DATA INGESTION ARCHITECTURE
+![image](https://github.com/user-attachments/assets/522381ab-88ee-426d-aa89-1567b2234c53)
+
+
+
